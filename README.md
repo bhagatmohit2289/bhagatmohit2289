@@ -37,7 +37,7 @@ Full Stack Developer with **12+ years of experience** in designing and developin
 - **Methodology:** Agile Based
 - **Tech Stack:** Vert.X, Java, Couchbase DB, XLR, Splunk, S3, JIRA, Kafka, RTF
 
-### **Senior Software Engineer** 👉 Banca Sella | Chennai, India | 2018 - 2019
+### **Senior Software Engineer** 👉 [Banca Sella](https://www.sella.it/banca-on-line) | Chennai, India | 2018 - 2019
 - **Domain:** Banking
 - **Responsibility:** Full Stack Developer - Built application from scratch
 - **Team Size:** 3 members
