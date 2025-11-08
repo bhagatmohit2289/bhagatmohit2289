@@ -6,7 +6,7 @@
 
 ## Welcome to my GitHub profile!
 
-Full Stack Developer with **12+ years of experience** in designing and developing high-performance, scalable web applications. Currently working as **Technology Lead at Infosys**, specializing in enterprise storage solutions and microservices architecture. Passionate about building robust systems, mentoring teams, and delivering impactful solutions.
+Full Stack Developer with **13+ years of experience** in designing and developing high-performance, scalable web applications. Currently working as **Team Lead at Cognizant**, specializing in enterprise storage solutions and microservices architecture. Passionate about building robust systems, mentoring teams, and delivering impactful solutions.
 
 **Location:** Hove, UK (Brighton) | **Phone:** +44 7825278531
 
@@ -17,7 +17,47 @@ Full Stack Developer with **12+ years of experience** in designing and developin
 - **Email:** [bhagat.mohit2289@gmail.com](mailto:bhagat.mohit2289@gmail.com)
 - **LinkedIn:** [linkedin.com/in/mohitbhagat](https://www.linkedin.com/in/mohitbhagat)
 - **Phone:** +44 7825278531
-- **Address:** 29 Cliftonville Court, Hove, BN3 3RX, UK
+- **Address:** Hove, UK
+
+---
+
+## 👀 Tech Stack Overview
+
+### **Frontend Development**
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3, JSP
+- **Frameworks & Libraries:** React.js, Redux
+- **Styling:** CSS, Bootstrap, SCSS
+- **Tools:** VS Code, Webpack, Swagger UI
+
+### **Backend Development**
+- **Languages:** Java 1.8, Java 1.7, Vert.X
+- **Frameworks:** Spring, Spring Boot, Vert.X, NodeJs, ExpressJs
+- **APIs:** REST APIs, JMS, Kafka, RTF
+- **Tools:** VS Code, IntelliJ, Eclipse
+
+### **Databases & Storage**
+- **SQL:** Oracle, MySQL, Hibernate, JPA, JDBC
+- **NoSQL:** Couchbase, MongoDB
+- **Cloud Storage:** Amazon S3, Cloudian
+
+### **DevOps & Cloud**
+- **Cloud Platforms:** AWS (S3, XLR, Splunk)
+- **Servers:** Tomcat, Node.js, WebSphere, WebLogic, JBOSS, Active MQ
+- **CI/CD:** Jenkins, XLR
+- **Monitoring:** Splunk, ELF, JIRA
+
+### **Tools & Platforms**
+- **Version Control:** GIT, SVN, Clear Case
+- **Build Tools:** Maven, Webpack, Jenkins, Gradle
+- **IDEs:** VS Code, IntelliJ
+- **Testing:** JUnit, Swagger UI
+- **Monitoring & Logging:** Splunk, Log4j, XLR
+
+### **Design Patterns**
+- MVC, Singleton, Asynchronous, Factory, Facade
+
+### **Programming Styles**
+- Functional & Object Oriented Programming
 
 ---
 
@@ -28,7 +68,7 @@ Full Stack Developer with **12+ years of experience** in designing and developin
 - **Key Achievement:** Developed performance-oriented Single Page application for document promotion across different environments
 - **Team Size:** 10 members
 - **Methodology:** Agile Based
-- **Tech Stack:** React, Vert.X, Java, Couchbase DB, XLR, ELF, S3, Kafka, RTF, GitHub Actions
+- **Tech Stack:** React, Vert.X, Java, Couchbase DB, XLR, ELF, S3, Kafka, RTF, GitHub Actions, Gradle
 
 ### **Technology Lead** 👉 [Infosys](https://www.infosys.com/) | Amex, UK | 2019 - 2024 ✔️
 - **Domain:** Enterprise Storage
@@ -61,49 +101,6 @@ Full Stack Developer with **12+ years of experience** in designing and developin
 
 ---
 
-## 👀 Tech Stack Overview
-
-### **Primary Technologies**
-- **Languages:** Java 1.8, Vert.X, Spring, Spring Boot, React, Redux, Javascript, Hibernate, JPA, JDBC, REST APIs, Log4j, JUnit
-
-### **Frontend Development**
-- **Languages:** JavaScript, TypeScript, HTML5, CSS3, JSP
-- **Frameworks & Libraries:** React.js, Redux, jQuery, PrimeFaces 6
-- **Styling:** CSS, Bootstrap, SCSS
-- **Tools:** VS Code, Webpack, Swagger UI
-
-### **Backend Development**
-- **Languages:** Java 1.8, Java 1.7, Vert.X, Python
-- **Frameworks:** Spring, Spring Boot, Spring v4, EJB 2.0-3.0, JSF 2.2
-- **APIs:** REST APIs, JMS, Kafka, RTF, SOAP
-- **Database Tools:** Hibernate, JPA, JDBC
-
-### **Databases & Storage**
-- **SQL:** Oracle, MySQL
-- **NoSQL:** Couchbase, MongoDB
-- **Cloud Storage:** Amazon S3, Google Cloud Storage
-
-### **DevOps & Cloud**
-- **Cloud Platforms:** AWS (S3, XLR, Splunk)
-- **Servers:** Tomcat, Node.js, WebSphere, WebLogic, JBOSS, Active MQ
-- **CI/CD:** Jenkins, XLR
-- **Monitoring:** Splunk, JIRA
-
-### **Tools & Platforms**
-- **Version Control:** GIT, SVN, Clear Case
-- **Build Tools:** Maven, Webpack
-- **IDEs:** VS Code, Eclipse
-- **Testing:** JUnit, Swagger UI
-- **Monitoring & Logging:** Splunk, Log4j, XLR
-
-### **Design Patterns**
-- MVC, Singleton, Asynchronous, Factory, Facade
-
-### **Programming Styles**
-- Functional & Object Oriented Programming
-
----
-
 ## 🎓 Education
 
 - **B-Tech. in Electronics and Communication Engineering (ECE)** 👉 2007 - 2011
@@ -122,15 +119,22 @@ Full Stack Developer with **12+ years of experience** in designing and developin
 
 ## 🚀 Featured Projects
 
-*Showcase your best work here*
 
-1. **Enterprise Storage System** - Document Ingestion Platform
-   - Technologies used: Vert.X, Java, Couchbase, Kafka, S3, Splunk
-   - Key Features: High-performance document ingestion, monitoring, scalability
+1. **Enterprise Storage System** - Document Ingestion Platform | Cognizant (2024-Present) | Team Lead
+   - Technologies used: React, Vert.X, Java, Couchbase, Kafka, S3, Splunk, RTF, GitHub Actions, XLR
+   - Key Features: High-performance document ingestion, monitoring, scalability, real-time monitoring, team leadership (10 members)
 
-2. **Banking Application** - Full Stack Development
-   - Technologies used: ReactJS, Spring Boot, Oracle, JSF
-   - Key Features: Full feature implementation from scratch
+2. **Banking Application** - Full Stack Development | Banca Sella (2018-2019) | Full Stack Developer
+   - Technologies used: ReactJS, Spring Boot, Oracle, JDBC, CSS, Bootstrap, Java, JUnit, Tomcat
+   - Key Features: Full feature implementation from scratch, responsive UI design, team size: 3 members
+  
+3. **FIS Global Banking System** - Advanced Banking Portal | FIS Global (2015-2018) | Software Engineer
+   - Technologies used: Spring Boot, Hibernate, JSF, PrimeFaces, EJB, JMS, JPA, Oracle, WebSphere, Tomcat, Active MQ
+   - Key Features: Enhanced existing features, built new features from scratch, team size: 5 members, international exposure (Germany)
+            
+4. **Banking Application Enhancement** - Legacy System Modernization | Syntel (2012-2015) | Software Engineer
+   - Technologies used: Java, Spring, Hibernate, MySQL, JavaScript, HTML, CSS, JSP, WebSphere
+   - Key Features: Enhanced & maintained banking applications, team size: 5 members, Agile methodology, manual testing
 
 ---
 
