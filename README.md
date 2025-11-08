@@ -1,12 +1,12 @@
 # 👨‍💻 Mohit Bhagat
 
-**Full Stack Developer | Technology Lead**
+**Full Stack Developer | Technology & Team Lead**
 
 ---
 
 ## Welcome to my GitHub profile!
 
-Full Stack Developer with **11+ years of experience** in designing and developing high-performance, scalable web applications. Currently working as **Technology Lead at Infosys**, specializing in enterprise storage solutions and microservices architecture. Passionate about building robust systems, mentoring teams, and delivering impactful solutions.
+Full Stack Developer with **12+ years of experience** in designing and developing high-performance, scalable web applications. Currently working as **Technology Lead at Infosys**, specializing in enterprise storage solutions and microservices architecture. Passionate about building robust systems, mentoring teams, and delivering impactful solutions.
 
 **Location:** Hove, UK (Brighton) | **Phone:** +44 7825278531
 
@@ -23,7 +23,14 @@ Full Stack Developer with **11+ years of experience** in designing and developin
 
 ## 💼 Professional Experience
 
-### **Technology Lead** 👉 [Infosys](https://www.infosys.com/) | Amex, UK | 2019 - Present ✔️
+### **Team Lead** 👉 [Cognizant](https://www.cognizant.com/uk/en) | Amex, UK | 2024 - Present ✔️
+- **Domain:** Enterprise Storage
+- **Key Achievement:** Developed performance-oriented Single Page application for document promotion across different environments
+- **Team Size:** 10 members
+- **Methodology:** Agile Based
+- **Tech Stack:** React, Vert.X, Java, Couchbase DB, XLR, ELF, S3, Kafka, RTF, GitHub Actions
+
+### **Technology Lead** 👉 [Infosys](https://www.infosys.com/) | Amex, UK | 2019 - 2024 ✔️
 - **Domain:** Enterprise Storage
 - **Key Achievement:** Developed performance-oriented storage system for document ingestion
 - **Team Size:** 10 members
