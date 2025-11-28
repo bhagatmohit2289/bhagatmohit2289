@@ -15,7 +15,7 @@ Full Stack Developer with **13+ years of experience** in designing and developin
 ## 👋 Connect with Me
 
 - **Email:** [bhagat.mohit2289@gmail.com](mailto:bhagat.mohit2289@gmail.com)
-- **LinkedIn:** [linkedin.com/in/mohitbhagat](https://www.linkedin.com/in/mohitbhagat)
+- **LinkedIn:** [linkedin.com/in/mohitbhagat](https://www.linkedin.com/in/mohit-bhagat-bb02b9b3)
 - **Phone:** +44 7825278531
 - **Address:** Hove, UK
 
